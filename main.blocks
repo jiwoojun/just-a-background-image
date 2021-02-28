@@ -50,4 +50,21 @@
 ........1.......
 ........1.......
 ........1.......
-`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image2"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="I:!,v61qM#aB)p[Q[j#."><field name="MEMBER">Pointer</field></shadow></value></block></value><next><block type="spritesetpos" id="mi]C(IsB^L@w)x*zMGBh"><value name="sprite"><block type="variables_get" id="aA.X1$29[rq}L5^B.m1k"><field name="VAR" id="0EiQ?QzJ~xlrr?v.4*6=">Arrow</field></block></value><value name="x"><shadow type="positionPicker" id="XBGKWT_`3#C$T%TsEpj6"><field name="index">48</field></shadow></value><value name="y"><shadow type="positionPicker" id="r{oC~sznza(~;^)Re[+g"><field name="index">24</field></shadow></value><next><block type="spritesay" id="bygzTc-q~D+RN4QB|hu4"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="lhJE!lZ/lUAG^y]5/dHz"><field name="VAR" id="0EiQ?QzJ~xlrr?v.4*6=">Arrow</field></block></value><value name="text"><shadow type="text" id=";8OStfRLH{^@uhWcvb(~"><field name="TEXT">This is a background image.</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image2"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="I:!,v61qM#aB)p[Q[j#."><field name="MEMBER">Pointer</field></shadow></value></block></value><next><block type="spritesetpos" id="mi]C(IsB^L@w)x*zMGBh"><value name="sprite"><block type="variables_get" id="aA.X1$29[rq}L5^B.m1k"><field name="VAR" id="0EiQ?QzJ~xlrr?v.4*6=">Arrow</field></block></value><value name="x"><shadow type="positionPicker" id="XBGKWT_`3#C$T%TsEpj6"><field name="index">48</field></shadow></value><value name="y"><shadow type="positionPicker" id="r{oC~sznza(~;^)Re[+g"><field name="index">24</field></shadow></value><next><block type="spritesay" id="bygzTc-q~D+RN4QB|hu4"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="lhJE!lZ/lUAG^y]5/dHz"><field name="VAR" id="0EiQ?QzJ~xlrr?v.4*6=">Arrow</field></block></value><value name="text"><shadow type="text" id=";8OStfRLH{^@uhWcvb(~"><field name="TEXT">This is a background image.</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="function_definition" id="aAo],5wy1eKj|1~b%YTv" x="-10" y="390"><mutation name="Splash" functionid="Qu]xk0HA@hmq*fx`tFA]"><arg name="text" id="}dXp8rC.q~%(3T5t9(J-" type="string"/></mutation><field name="function_name">Splash</field><value name="}dXp8rC.q~%(3T5t9(J-"><shadow type="argument_reporter_string" id="9hT)CL{B/_7%c-b)ev,g"><field name="VALUE">text</field></shadow></value><statement name="STACK"><block type="game_dialog_set_cursor" id="tunF23HJ}$i8a5QDJy)w"><value name="frame"><shadow type="screen_image_picker" id=".tdT3D.iN?w;1~q;q~.y"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . 2 2 2 2 2 2 2 2 2 
+. . . . . . . 2 2 2 2 2 2 2 2 2 
+. . . . . . . 2 2 2 2 2 2 2 2 2 
+. . . . . . . 2 2 2 2 2 2 2 2 2 
+. . . . . . . 2 2 2 2 2 2 2 2 2 
+. . . . . . . 2 2 2 2 2 2 2 2 2 
+. . . . . . . 2 2 2 2 2 2 2 2 2 
+. . . . . . . 2 2 2 2 2 2 2 2 2 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image3"}}</data></shadow></value><next><block type="controls_if" id="VLFV/,8mL!f2s^2D3x`A"><mutation else="1"/><value name="IF0"><shadow type="logic_boolean" id="Mk]~z_^;/fMuN?P/X@]u"><field name="BOOL">TRUE</field></shadow></value></block></next></block></statement></block><block type="gameSplash" id="HXQxWF/l6uwY8E_D^*]0" disabled="true" x="230" y="590"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="title"><shadow type="text" id="$t@HYo-8F/E$khvs7mdk" disabled="true"><field name="TEXT">It’s just a background image.have a check.</field></shadow></value><value name="subtitle"><shadow type="text" id="-hl8N#!I!`KiA_ZNZY=R" disabled="true"><field name="TEXT"/></shadow></value></block></xml>
